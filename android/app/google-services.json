@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "52595772498",
+    "project_id": "cryptoapp-ff871",
+    "storage_bucket": "cryptoapp-ff871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52595772498:android:28c2fcd66201b3c79b638b",
+        "android_client_info": {
+          "package_name": "com.example.form_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52595772498-3shl1iuqcd3s2p8s3rj2j5o228cq736f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHkEjT8HtQ9YfjRBFQDATrT5oYgRk1Wag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52595772498-3shl1iuqcd3s2p8s3rj2j5o228cq736f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52595772498:android:f5f5a325e8deb4fd9b638b",
+        "android_client_info": {
+          "package_name": "com.example.nemis_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52595772498-3shl1iuqcd3s2p8s3rj2j5o228cq736f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHkEjT8HtQ9YfjRBFQDATrT5oYgRk1Wag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52595772498-3shl1iuqcd3s2p8s3rj2j5o228cq736f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

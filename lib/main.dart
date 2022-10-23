@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import './myCustomForm.dart';
 
 void main() {
-  runApp(MyWidget());
+  runApp(const MyWidget());
 }
 
 class MyWidget extends StatefulWidget {
@@ -20,7 +20,8 @@ class _MyWidgetState extends State<MyWidget> {
         title: 'Create an Account',
         home: Scaffold(
           appBar: AppBar(
-            title: Text(
+            elevation: 0.5,
+            title: const Text(
               'Create an Account',
             ),
             centerTitle: true,
